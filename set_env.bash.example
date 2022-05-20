@@ -1,0 +1,9 @@
+# Project Secrets
+export TF_VAR_company="COMPANY_NAME"
+export TF_VAR_project="PROJECT_NAME"
+
+# AWS Secrets
+export TF_VAR_aws_access_key="YOUR_AWS_ACCESS_KEY"
+export TF_VAR_aws_secret_key="YOUR_AWS_SECRET_KEY"
+export TF_VAR_instance_type="EC2_INSTANCE_TYPE"
+export TF_VAR_key_name="KEY_PAIR_NAME"
